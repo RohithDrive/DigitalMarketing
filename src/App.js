@@ -1,7 +1,7 @@
 import logo from './logo.svg';
 import './App.css';
 
-import {BrowserRouter as Router, Routes,Route,Navigate} from 'react-router-dom';
+import {HashRouter as Router, Routes,Route,Navigate} from 'react-router-dom';
 
 import Options from './components/Options.js';
 import EnquiryForm from './components/Enquiry.js';
