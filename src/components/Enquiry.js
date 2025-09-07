@@ -47,6 +47,7 @@ export const serviceAssets = {
   "SEO": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
+		"https://arabinfotechllc.com/blogs/wp-content/uploads/2023/09/seo-main.png",
       "https://binarychai.com/wp-content/uploads/2024/01/360_F_275879381_ARBnyLcOKNJPiJJgDWvcTIm1titf2KR2.jpg",
       "https://hansikar.com/wp-content/uploads/2018/11/se.jpg",
       "https://www.analyticssteps.com/backend/media/thumbnail/2908397/8430169_1618372779_SEO%20marketing.jpg",
