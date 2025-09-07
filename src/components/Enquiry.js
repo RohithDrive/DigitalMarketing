@@ -56,9 +56,9 @@ export const serviceAssets = {
   "Blog": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-      "https://makemoney.tw/wp-content/uploads/2022/01/Blog-%E6%98%AF%E4%BB%80%E9%BA%BC.jpg",
-      "https://www.formationfacile.com/wp-content/uploads/2021/04/comment-creer-un-blog-01-1-4.png",
-	    "https://blogencounters.com/wp-content/uploads/2023/01/blogideas.jpg",
+      	"https://makemoney.tw/wp-content/uploads/2022/01/Blog-%E6%98%AF%E4%BB%80%E9%BA%BC.jpg",
+      	"https://www.formationfacile.com/wp-content/uploads/2021/04/comment-creer-un-blog-01-1-4.png",
+		"https://blogencounters.com/wp-content/uploads/2023/01/blogideas.jpg",
 	    "https://www.phoneworld.com.pk/wp-content/uploads/2020/01/shutterstock_720876373.jpg",
 	    "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Bloggers-and-Blogging-2.jpeg",
 	    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwXAtlLwwxlueA02dYCRrsiDiETnTLv7Fq0rW83_DRLBTphtf43XVSbt8VCEwz2AZD01Q&usqp=CAU",
@@ -67,8 +67,8 @@ export const serviceAssets = {
   "Website Content": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-      "https://www.ecommercetimes.com/wp-content/uploads/sites/5/2021/12/xl-2017-content-marketing-1.jpg",
-      "https://circlethreebranding.com/wp-content/uploads/2024/02/content-marketing-1.jpg",
+      	"https://www.ecommercetimes.com/wp-content/uploads/sites/5/2021/12/xl-2017-content-marketing-1.jpg",
+      	"https://circlethreebranding.com/wp-content/uploads/2024/02/content-marketing-1.jpg",
 	    "https://tedmarkdigital.com/wp-content/uploads/2023/06/content.jpeg", "https://media.licdn.com/dms/image/v2/C4D12AQFVHOxmru4wNA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1649872503131?e=2147483647&v=beta&t=sFx_IThDaI8uXIZTyNA4Gy4MP5PG_B5n4omuypGZyfg"
     ]
   },
@@ -104,7 +104,8 @@ export const serviceAssets = {
     ]
   },
   "Digital": {
-    video: "/videos/Abc.mp4",
+    //video: "/videos/Abc.mp4",
+	  video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
       "https://www.adlibweb.com/wp-content/uploads/2022/07/digital-marketing.webp",
       "https://digitalindiaadd.com/blog/uploads/images/202412/image_650x433_6752ba3832ffa.jpg",
@@ -114,7 +115,8 @@ export const serviceAssets = {
     ]
   },
   "Online": {
-    video: "/videos/localVideo.mkv",
+    //video: "/videos/localVideo.mkv",
+	video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
       "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyKTrSjEbWoyeNLEB9D89aySz7CjUceJmKzFCKR6KqA8C7FtjsHYvJ8Mh_zeYI_kKV45w&usqp=CAU",
 	    "https://websitedepot.com/wp-content/uploads/2015/12/online-marketing.jpg",
