@@ -18,10 +18,11 @@ export const serviceAssets = {
   "Email Marketing": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-      	"https://thumbs.dreamstime.com/b/email-marketing-cntent-social-media-subscriber-list-analysis-concept-chart-keywords-icons-white-background-177784342.jpg",
+      "https://thumbs.dreamstime.com/b/email-marketing-cntent-social-media-subscriber-list-analysis-concept-chart-keywords-icons-white-background-177784342.jpg",
 	    "https://media.licdn.com/dms/image/v2/D4E12AQFenlZK-xONug/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1719449459641?e=2147483647&v=beta&t=i-gPHoKdnjQu4vIflvJy859dW578VjtW571qiPKMUVc",
 	    "https://media.licdn.com/dms/image/v2/D5610AQFu3yhQqwD-eg/image-shrink_800/image-shrink_800/0/1722772879910?e=2147483647&v=beta&t=iIKc8yyFUoXMK0iEbHk_DJVcx8-mKRKW8zS5zdhervI",
-	    "https://media.licdn.com/dms/image/v2/D5612AQFZIZVZgCyNUA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1727161916251?e=2147483647&v=beta&t=tr3Fyz7N4vnF9YspkOEPaG71sXZhPK_ZN37NpfwroKg"
+	    "https://media.licdn.com/dms/image/v2/D5612AQFZIZVZgCyNUA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1727161916251?e=2147483647&v=beta&t=tr3Fyz7N4vnF9YspkOEPaG71sXZhPK_ZN37NpfwroKg",
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCIWiXQxJ3QTP28Nme7k2MABit9qmXSaCDRA&s"
     ]
   },
   "Youtube Marketing": {
@@ -37,9 +38,9 @@ export const serviceAssets = {
   "Social Media": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-		"https://s44783.pcdn.co/in/wp-content/uploads/sites/3/2023/04/Social-Media-Marketing.png",
-      	"https://technians.com/wp-content/uploads/2018/01/social-media-and-digital-marketing.jpg",
-      	"https://www.big-red-digital.com/images/blogimages/social-media-networks.jpg",
+		  "https://s44783.pcdn.co/in/wp-content/uploads/sites/3/2023/04/Social-Media-Marketing.png",
+      "https://technians.com/wp-content/uploads/2018/01/social-media-and-digital-marketing.jpg",
+      "https://www.big-red-digital.com/images/blogimages/social-media-networks.jpg",
 	    "https://www.digitalfuturetimes.com/wp-content/uploads/2021/02/Social-Media-Marketing-Platform-Guide-Outline-101-Digital-Marketing-Bootstrap-Business-Frugal-Entrepreneur-Mike-Schiemer-Michael.png",
 	    "https://woow.ooo/services/social_media_marketing.png",
     ]
@@ -47,7 +48,7 @@ export const serviceAssets = {
   "SEO": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-		"https://arabinfotechllc.com/blogs/wp-content/uploads/2023/09/seo-main.png",
+		  "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSltodag-I9Jh-uKFeWFT_gF4zzW86WRrKB4GPsKHMP0gAv600OYJMgnRtNZDGPW8-iP9s&usqp=CAU",
       "https://binarychai.com/wp-content/uploads/2024/01/360_F_275879381_ARBnyLcOKNJPiJJgDWvcTIm1titf2KR2.jpg",
       "https://hansikar.com/wp-content/uploads/2018/11/se.jpg",
       "https://www.analyticssteps.com/backend/media/thumbnail/2908397/8430169_1618372779_SEO%20marketing.jpg",
@@ -57,9 +58,9 @@ export const serviceAssets = {
   "Blog": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-      	"https://makemoney.tw/wp-content/uploads/2022/01/Blog-%E6%98%AF%E4%BB%80%E9%BA%BC.jpg",
-      	"https://www.formationfacile.com/wp-content/uploads/2021/04/comment-creer-un-blog-01-1-4.png",
-		"https://blogencounters.com/wp-content/uploads/2023/01/blogideas.jpg",
+      "https://makemoney.tw/wp-content/uploads/2022/01/Blog-%E6%98%AF%E4%BB%80%E9%BA%BC.jpg",
+      "https://www.formationfacile.com/wp-content/uploads/2021/04/comment-creer-un-blog-01-1-4.png",
+		  "https://blogencounters.com/wp-content/uploads/2023/01/blogideas.jpg",
 	    "https://www.phoneworld.com.pk/wp-content/uploads/2020/01/shutterstock_720876373.jpg",
 	    "https://kahedu.edu.in/n/wp-content/uploads/2021/02/Bloggers-and-Blogging-2.jpeg",
 	    "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwXAtlLwwxlueA02dYCRrsiDiETnTLv7Fq0rW83_DRLBTphtf43XVSbt8VCEwz2AZD01Q&usqp=CAU",
@@ -68,8 +69,8 @@ export const serviceAssets = {
   "Website Content": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-      	"https://www.ecommercetimes.com/wp-content/uploads/sites/5/2021/12/xl-2017-content-marketing-1.jpg",
-      	"https://circlethreebranding.com/wp-content/uploads/2024/02/content-marketing-1.jpg",
+      "https://www.ecommercetimes.com/wp-content/uploads/sites/5/2021/12/xl-2017-content-marketing-1.jpg",
+      "https://circlethreebranding.com/wp-content/uploads/2024/02/content-marketing-1.jpg",
 	    "https://tedmarkdigital.com/wp-content/uploads/2023/06/content.jpeg", "https://media.licdn.com/dms/image/v2/C4D12AQFVHOxmru4wNA/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1649872503131?e=2147483647&v=beta&t=sFx_IThDaI8uXIZTyNA4Gy4MP5PG_B5n4omuypGZyfg"
     ]
   },
@@ -131,7 +132,7 @@ export const serviceAssets = {
 
 export const getEmbeddedURL = (url) => {
   try {
-    /* embed logic for Youtube videos*/
+    /* embed logic for Youtube videos */
     if (url.includes('youtube.com/watch')) {
       const videoId = new URL(url).searchParams.get('v');
       return {
