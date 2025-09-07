@@ -18,7 +18,7 @@ export const serviceAssets = {
   "Email Marketing": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-      "https://thumbs.dreamstime.com/b/email-marketing-cntent-social-media-subscriber-list-analysis-concept-chart-keywords-icons-white-background-177784342.jpg",
+      	"https://thumbs.dreamstime.com/b/email-marketing-cntent-social-media-subscriber-list-analysis-concept-chart-keywords-icons-white-background-177784342.jpg",
 	    "https://media.licdn.com/dms/image/v2/D4E12AQFenlZK-xONug/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1719449459641?e=2147483647&v=beta&t=i-gPHoKdnjQu4vIflvJy859dW578VjtW571qiPKMUVc",
 	    "https://media.licdn.com/dms/image/v2/D5610AQFu3yhQqwD-eg/image-shrink_800/image-shrink_800/0/1722772879910?e=2147483647&v=beta&t=iIKc8yyFUoXMK0iEbHk_DJVcx8-mKRKW8zS5zdhervI",
 	    "https://media.licdn.com/dms/image/v2/D5612AQFZIZVZgCyNUA/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1727161916251?e=2147483647&v=beta&t=tr3Fyz7N4vnF9YspkOEPaG71sXZhPK_ZN37NpfwroKg"
@@ -37,9 +37,9 @@ export const serviceAssets = {
   "Social Media": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-		  "https://s44783.pcdn.co/in/wp-content/uploads/sites/3/2023/04/Social-Media-Marketing.png",
-      "https://technians.com/wp-content/uploads/2018/01/social-media-and-digital-marketing.jpg",
-      "https://www.big-red-digital.com/images/blogimages/social-media-networks.jpg",
+		"https://s44783.pcdn.co/in/wp-content/uploads/sites/3/2023/04/Social-Media-Marketing.png",
+      	"https://technians.com/wp-content/uploads/2018/01/social-media-and-digital-marketing.jpg",
+      	"https://www.big-red-digital.com/images/blogimages/social-media-networks.jpg",
 	    "https://www.digitalfuturetimes.com/wp-content/uploads/2021/02/Social-Media-Marketing-Platform-Guide-Outline-101-Digital-Marketing-Bootstrap-Business-Frugal-Entrepreneur-Mike-Schiemer-Michael.png",
 	    "https://woow.ooo/services/social_media_marketing.png",
     ]
@@ -47,7 +47,6 @@ export const serviceAssets = {
   "SEO": {
     video: "https://www.youtube.com/watch?v=yByfau1Q3zs",
     images: [
-      "https://community.nasscom.in/sites/default/files/styles/960_x_600/public/media/images/seo.jpeg?itok=B-oHdaV7",
       "https://binarychai.com/wp-content/uploads/2024/01/360_F_275879381_ARBnyLcOKNJPiJJgDWvcTIm1titf2KR2.jpg",
       "https://hansikar.com/wp-content/uploads/2018/11/se.jpg",
       "https://www.analyticssteps.com/backend/media/thumbnail/2908397/8430169_1618372779_SEO%20marketing.jpg",
